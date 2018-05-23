@@ -89,7 +89,7 @@ function sortcart (keyName){
     
     function sortcart(newItem){
         cart.push(newItem);
-        cons
+    
     }
 }
 
